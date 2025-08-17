@@ -16,4 +16,4 @@ Epicore is a responsive web application that demonstrates modern web development
 
 - **HTML5** - Semantic markup and structure
 - **CSS3** - Modern styling and responsive design
-- **Deployment** - Vercel for seamless hosting
+- **Deployment** - Netlify for seamless hosting
