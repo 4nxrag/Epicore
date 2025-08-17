@@ -6,7 +6,7 @@ A modern web application (For my personal use) to track my projects progress. Bu
 
 ## 🚀 Live Demo
 
-Check out the live application: [epicore-lyart.vercel.app](https://epicore.netlify.app/)
+Check out the live application: [epicore-netlify.app](https://epicore.netlify.app/)
 
 ## 📋 Project Overview
 
